@@ -70,10 +70,6 @@ This is a voting DApp which starts the election for the candidate and the voter 
 - **HTML, CSS, JavaScript**: For the frontend.
 
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact Information
 
 For any questions or feedback, please contact:
